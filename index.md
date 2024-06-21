@@ -1,4 +1,3 @@
-
 # Front-end Coding Standards and Best Practices
 
 a.k.a. _'How to do webdev at salesdock'_.
@@ -566,3 +565,5 @@ const title = (seriesName) =>
 - It makes code more expressive and easier to read.
 - It support multi-line strings without additional workarounds.
 - Improving code formatting.
+
+  
