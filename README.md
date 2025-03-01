@@ -1,8 +1,6 @@
 
 # Front-end Coding Standards and Best Practices
 
-a.k.a. _'How to do webdev at salesdock'_.
-
 ## Overview
 These guidelines, principles and standards allow us to:
 - produce code of a consistent quality across all frontend development
