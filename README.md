@@ -8,7 +8,6 @@ These guidelines, principles and standards allow us to:
 - produce code that is less prone to bugs and regressions, is easier to understand and debug
 - write code that supports re-use.
 
-It is required reading for all developers working on a salesdock web development project.
 
 # Global Development Guidelines
 ## Performance
